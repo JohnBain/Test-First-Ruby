@@ -1,0 +1,3 @@
+def Simon_says(x)
+puts x
+end
